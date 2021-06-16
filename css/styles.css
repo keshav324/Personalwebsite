@@ -1,0 +1,110 @@
+body {
+  background-color: black;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-color: whitesmoke;
+  border-width: 5px;
+  
+}
+
+h1 {
+  color: white;
+  margin-top: 0;
+
+}
+
+h3 {
+  color: white;
+  text-align: center;
+}
+
+  a:link, a:visited {
+    background-color: black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+a:hover{
+  background-color: white;
+  color: black;
+}
+p{
+  color: white;
+}
+
+
+
+
+
+.first-container{
+  background-color: black;
+  position: relative;
+  left: 400px;
+  bottom: 200px;
+}
+.second-container{
+  background-color: #4e4e50
+}
+.third-container{
+  background-color: #c3073f
+}
+.fourth-container{
+  background-color: #6f2232
+}
+.fifth-container{
+  background-color: black;
+  position: absolute;
+  right: 150px;
+  margin-right: 200px;
+}
+.sixth-container{
+  background-color: #950740
+}
+.seventh-container{
+  position: relative;
+  left: 300px;
+  bottom: 160px;
+  color: white;
+}
+.text{
+  color: white;
+}
+.lists{
+  color: white;
+}
+.webskill{
+  position: relative;
+  left: 150px;
+  bottom: 38px;
+}
+.gameskill{
+  position: relative;
+  left: 150px;
+  bottom: 38px;
+}
+.link{
+  position: relative;
+  left: 230px;
+  bottom: 38px;
+}
+.aboutme{
+  position: absolute;
+  background-color: black;
+  right: 150px;
+}
+.p1{
+  position: relative;
+  left: 150px;
+  bottom: 50px;
+}
+.p2{
+  position: relative;
+  left: 150px;
+  bottom: 50px;
+}
